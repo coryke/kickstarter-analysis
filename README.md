@@ -1,6 +1,5 @@
-# Analysis of Kickstarter Projects
+#Analysis of Kickstarter Projects
 Analysis of KS (fake) data for BC mod 1
-
 The following data may prove helpful to your understanding of Kickstarter projects for musicals in the United States and Great Britain.  
 ---
 Overall, the following chart shows the mean and median goals and amount pledged for successful and failed projects.  
