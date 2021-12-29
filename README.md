@@ -10,14 +10,14 @@ The following analysis in intended to provide actionable information regarding K
 ### Analysis of Outcomes Based on Launch Date
 Kickstarter (hereafter: KS) projects appear to experience a range of success to failure ratios based on the month of the project creation date throughout the year. The following chart shows the n-count of projects in the "Theater" category by month delineated by outcome: success, failure, canceled.
 
-[Imgur](https://i.imgur.com/k796JVN.png)
+![Outcomes Based on Launch Date Chart](https://github.com/coryke/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 Canceled KS projects make up a small minority all Theater projects overall, and do not appear to be affected significantly by the month of launch date. Successful and failed KS Theater projects generally move parallel to one another with the successful projects being more numerous. There are two notable exceptions to this generality. First, there is a peak beginning in April or May and lasting through August where successful Theater projects make up a larger percentage of the overall Theater projects. That is, the ratio between successful and failed Theater KS projects swings towards more successful during the summer. Secondly, the converse phenomenon occurs in December. The ratio between successful and failed Theater KS projects is roughly one to one. There are an almost equal number of successful and failed projects at this time, and only at this time, of year.
 
 ### Analysis of Outcomes Based on Goals
 KS projects in the "Plays" subcategory set a wide range of goals for these projects, from less than $1000 to significantly more than $50,000. The following chart shows the percentage of KS projects in the "Plays" subcategory by goal amount in $5000 increments, delineated by outcome: success, failure, canceled.
 
-[Imgur](https://i.imgur.com/ju2weDl.png)
+![Outcomes Based on Goals](https://i.imgur.com/ju2weDl.png)
 
 There were no canceled KS projects in the subcategory of plays for our analysis. All projects in the "Plays" subcategory that have reached the conclusion of their fundraising deadline (thus, currently live projects will not be found in this dataset), were either successful or failed. The data are less straightforward than the data based on launch date, above. The overall trend, though, is that the lower the goal amount for the KS project, the more likely the project succeeded. At the lower goal amounts (under $5000), successful projects acount for nearly 80% of all projects. At the highest goal amounts (over $50,000), successful projects make up a mere 10%. There is a notable exception for KS projects that set a fundraising goal between $35,000 and $45,000. Up to 60% of all "Plays" subcategory KS projects succeeded. This is contrary to the general downward trend based on funding goals.
 
