@@ -10,7 +10,7 @@ The following analysis in intended to provide actionable information regarding K
 ### Analysis of Outcomes Based on Launch Date
 Kickstarter (hereafter: KS) projects appear to experience a range of success to failure ratios based on the month of the project creation date throughout the year. The following chart shows the n-count of projects in the "Theater" category by month delineated by outcome: success, failure, canceled.
 
-![Outcomes Based on Launch Date Chart](https://github.com/coryke/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Launch Date Chart](https://i.imgur.com/k796JVN.png)  
 
 Canceled KS projects make up a small minority all Theater projects overall, and do not appear to be affected significantly by the month of launch date. Successful and failed KS Theater projects generally move parallel to one another with the successful projects being more numerous. There are two notable exceptions to this generality. First, there is a peak beginning in April or May and lasting through August where successful Theater projects make up a larger percentage of the overall Theater projects. That is, the ratio between successful and failed Theater KS projects swings towards more successful during the summer. Secondly, the converse phenomenon occurs in December. The ratio between successful and failed Theater KS projects is roughly one to one. There are an almost equal number of successful and failed projects at this time, and only at this time, of year.
 
